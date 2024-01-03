@@ -54,4 +54,6 @@ color: red;
 <h1> <u>Who Am I?</u></h1>
 <h2>Hello to anyone who's reading this. Hey! I'm Shri Hari. I'm an eight grader ( as of 23/24 ) and I have a lot of interests. I like to code a lot. So if anyone wants a webpage/site. You can message me at bshrihari16@gmail.com</h2>
 <h3 align="center">Will Be Updated</h3>
+<h2> I want to express my gratitude to my 2 Computer Science teachers: Sujitha Ma'am and Pavithra Ma'am. (I hope it's the right spelling)
+<br><br><center>Thank you so much</center></h2>
 </body></html>
